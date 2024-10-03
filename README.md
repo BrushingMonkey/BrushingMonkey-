@@ -1,1 +1,15 @@
-# BrushingMonkey-
+Languages and Tools:
+
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%23376d9f?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-%2300758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-%23623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Helm](https://img.shields.io/badge/-Helm-%230F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-%23181818?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
